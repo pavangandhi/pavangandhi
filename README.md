@@ -8,6 +8,14 @@
   <i>Learning. Building. Growing. Ready to make an impact in tech!</i>
 </p>
 
+<p>I'm a Technical Project Manager, Lead Technical Architect, and Full‑Stack Developer with 12+ years of experience building real-world software products. I work across web, mobile, cloud, and blockchain systems. I care about clean architecture, delivery discipline, and building things that actually get used.
+
+I currently focus on:
+
+Designing scalable systems
+Leading engineering teams
+Turning business problems into technical solutions</p><br>
+
 <p align="center">
   <a href="https://linktr.ee/pavangandhi">
     <img src="https://img.shields.io/badge/Linktree-00c300?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"/>
