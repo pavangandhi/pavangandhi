@@ -132,6 +132,15 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 <!-- --- -->
 
+## 🌈 How I Add Value 
+
+- Translate product ideas into technical plans
+- Architect systems that scale without drama
+- Lead teams using Agile and clear communication
+- Balance speed with long-term maintainability
+
+<!-- --- -->
+
 ## 🌈 Personal Interests
 
 - 📚 Reading & Journaling
