@@ -8,13 +8,14 @@
   <i>Learning. Building. Growing. Ready to make an impact in tech!</i>
 </p>
 
-<p>I'm a Technical Project Manager, Lead Technical Architect, and Full‑Stack Developer with 12+ years of experience building real-world software products. I work across web, mobile, cloud, and blockchain systems. I care about clean architecture, delivery discipline, and building things that actually get used.
+<p align="center">I'm a Technical Project Manager, Lead Technical Architect, and Full‑Stack Developer with 12+ years of experience building real-world software products. I work across web, mobile, cloud, and blockchain systems. I care about clean architecture, delivery discipline, and building things that actually get used.
 
-I currently focus on:
+I currently focus on:<br>
 
-Designing scalable systems
-Leading engineering teams
-Turning business problems into technical solutions</p><br>
+- Designing scalable systems
+- Leading engineering teams.
+- Turning business problems into technical solutions.
+</p>
 
 <p align="center">
   <a href="https://linktr.ee/pavangandhi">
@@ -28,10 +29,10 @@ Turning business problems into technical solutions</p><br>
 
 <!-- Programming Languages -->
 <strong>👩‍💻 Programming Languages</strong><br>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
-<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c-plus-plus-logo" title="C++"/> 
 </div>
 
 <div align="center">
@@ -41,10 +42,16 @@ Turning business problems into technical solutions</p><br>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" title="Typescript"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask"/>
-<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
+<img src="https://img.icons8.com/dusk/48/react.png" alt="react" title="ReactJs"/>
+<img src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js" title="NodeJs"/>
+<img src="https://img.icons8.com/deco/48/jquery.png" alt="jQuery" title="jQuery"/>
+<img src="https://img.icons8.com/deco/48/redux.png" alt="redux" title="Redux"/>
+<img src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress" title="WordPress"/>
+<img src="https://img.icons8.com/arcade/48/laravel.png" alt="laravel" title="Laravel"/>
+<img src="https://img.icons8.com/cute-clipart/48/codeigniter.png" alt="codeigniter" title="Codeigniter"/>
+<img src="https://img.icons8.com/office/48/express-js.png" alt="express-js" title="ExpressJs"/>
 </div>
 
 <div align="center">
