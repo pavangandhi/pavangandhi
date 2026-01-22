@@ -59,10 +59,12 @@ I currently focus on:<br>
 <!-- Databases & Backend -->
 <strong>🗄️ Databases & Backend</strong><br>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+<img src="https://img.icons8.com/fluency/48/000000/sql.png" alt="sql" title="SQL Server"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" title="Mondo DB"/>
+<img src="https://img.icons8.com/ios/48/000000/sqlite.png" alt="sqlite" title="Sqlite"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" alt="Supabase" title="Supabase" style="vertical-align:middle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache" width="48"/>
 </div>
 
 <div align="center">
