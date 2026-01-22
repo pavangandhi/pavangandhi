@@ -132,7 +132,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 <!-- --- -->
 
-## 🌈 How I Add Value 
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/d11bfce0-0711-4077-b728-942ae9130ec8"> How I Add Value 
 
 - Translate product ideas into technical plans
 - Architect systems that scale without drama
@@ -143,8 +143,8 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 ## 🌈 Personal Interests
 
-- 📚 Reading & Journaling
-- 🎵 Listening to music (<b>Taylor Swift</b> fan!)
+- 📚 Watching Movies, Playing Games
+- 🎵 Listening to music (<b>Jalraj</b> fan!)
 - ☕ Cafe hopping & taking aesthetic photos
 - 🗺️ Giving reviews on Google Maps
 
@@ -154,7 +154,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavangandhi&show_icons=true&theme=radical" alt="Moumita's GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavangandhi&theme=radical" alt="GitHub Streak" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=pavangandhi&theme=radical" alt="GitHub Streak" width="47%"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavangandhi&theme=radical" width="95%"/>
