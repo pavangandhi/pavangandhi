@@ -4,7 +4,8 @@
 
 <h1 align="center">Hey There, I'm Pavan Gandhi!👋</h1>
 <p align="center">
-  <b>MSC.ICT CSE Student | Aspiring Software Engineer | Technical Lead | Technical Project Manager | DevOps</b><br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Technical%20Project%20Manager;Technical%20Lead;12%2B%20Years%20of%20Expereinced%20Full-stack%20Engineer;DevOps%20Expert;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a><br>
+  <!-- <b>MSC.ICT CSE Student | Aspiring Software Engineer | Technical Lead | Technical Project Manager | DevOps</b><br> -->
   <i>Learning. Building. Growing. Ready to make an impact in tech!</i>
 </p>
 
@@ -18,9 +19,15 @@ I currently focus on:<br>
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/pavangandhi">
+  <!-- <a href="https://linktr.ee/pavangandhi">
     <img src="https://img.shields.io/badge/Linktree-00c300?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"/>
-  </a>
+  </a> -->
+  <a href="https://github.com/pavangandhi?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pavangandhi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/pavangandhi?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pavangandhi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="#">
+    <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=pavangandhi&color=ff69b4" height="100px" /></a>
 </p>
 
 ## 🛠️ My Technical Toolbox
@@ -86,7 +93,6 @@ I currently focus on:<br>
 <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" title="Trello"/>
 <img src="https://img.icons8.com/ios-filled/48/asana.png" alt="Asana" title="Asana"/>
 <img src="https://img.icons8.com/color/48/000000/slack.png" alt="Slack" title="Slack"/>
-
 <img src="https://img.icons8.com/color/48/000000/google-meet--v1.png" alt="Google Meet" title="Google Meet"/>
 <img src="https://img.icons8.com/color/48/000000/zoom.png" alt="Zoom" title="Zoom"/>
 <img src="https://img.icons8.com/bubbles/48/sendgrid.png" alt="Sendgrid" title="Sendgrid"/>
@@ -208,15 +214,26 @@ _Bigscal Technologies Pvt Ltd_ (Feb 2022 – Present)
 
 ## 📈 GitHub Stats & Badges
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavangandhi&show_icons=true&theme=radical" alt="Moumita's GitHub Stats" width="47%"/>
-  <img src="https://streak-stats.demolab.com/?user=pavangandhi&theme=radical" alt="GitHub Streak" width="47%"/>
+<h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
 </p>
-<p align="center">
+<h3>💻 GitHub Profile Stats</h3>  
+<p align="left">
+  <img alt="PavanGandhi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pavangandhi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="PavanGandhi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pavangandhi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <br/>
+</p>
+<!-- <h3>💪 GitHub Contribution Graph</h3>  
+  <img alt="PavanGandhi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pavangandhi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> -->
+
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavangandhi&theme=radical" width="95%"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavangandhi&color=ff69b4" alt="Profile Views"/>
 </p>
 
 <!-- --- -->
