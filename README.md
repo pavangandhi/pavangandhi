@@ -24,10 +24,9 @@ I currently focus on:<br>
   </a> -->
   <a href="https://github.com/pavangandhi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pavangandhi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/pavangandhi?tab=followers">
+  <a href="https://github.com/pavangandhi?tab=followers" align="center">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pavangandhi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="#">
-    <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=pavangandhi&color=ff69b4" height="100px" /></a>
+  
 </p>
 
 ## 🛠️ My Technical Toolbox
@@ -247,6 +246,8 @@ _Bigscal Technologies Pvt Ltd_ (Feb 2022 – Present)
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/pavangandhi10">
     <img src="https://img.shields.io/badge/Twitter/X-black?logo=twitter&logoColor=white"/></a>
+  <a href="#">
+    <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=pavangandhi&color=ff69b4" height="100px" /></a>
 </p>
 
 
