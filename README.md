@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey There, I'm Pavan Gandhi!👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Technical%20Project%20Manager;Technical%20Lead;12%2B%20Years%20of%20Expereinced%20Full-stack%20Engineer;DevOps%20Expert;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a><br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Technical%20Project%20Manager;Technical%20Lead;12%2B%20Years%20of%20Experienced%20Full-stack%20Engineer;DevOps%20Expert;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a><br>
   <!-- <b>MSC.ICT CSE Student | Aspiring Software Engineer | Technical Lead | Technical Project Manager | DevOps</b><br> -->
   <i>Learning. Building. Growing. Ready to make an impact in tech!</i>
 </p>
