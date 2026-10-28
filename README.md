@@ -11,11 +11,7 @@
 
 <p align="center">I'm a Technical Project Manager, Lead Technical Architect, and Full‑Stack Developer with 12+ years of experience building real-world software products. I work across web, mobile, cloud, and blockchain systems. I care about clean architecture, delivery discipline, and building things that actually get used.
 
-I currently focus on:<br>
-
-- Designing scalable systems
-- Leading engineering teams.
-- Turning business problems into technical solutions.
+👩‍💻 **I’m currently focus on:** Designing scalable systems, Leading engineering teams, Turning business problems into technical solutions.<br>🔭 **I’m currently working on:** Leading software projects, improving development workflows, and exploring AI-powered tools for everyday productivity.<br>👯 **I’m looking to collaborate on:** Useful software products, automation tools, and projects that solve real-world problems.<br>🤝 **I’m looking for help with:** Exploring better approaches to scalable architecture, AI integration, and developer productivity.<br>🌱 **I’m currently learning:** AI-assisted development, workflow automation, and modern system design.<br>💬 **Ask me about:** Technical project management, team coordination, software delivery, troubleshooting, and translating business requirements into technical plans.<br>⚡ **Fun fact:** I enjoy finding ways to automate repetitive tasks—even if figuring out the automation becomes a project of its own!<br><br>
 </p>
 
 <p align="center">
@@ -32,7 +28,9 @@ I currently focus on:<br>
 ## 🌐 Socials:
 
 <div align="center">
+  
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/pavangandhif) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pavangandhi27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mind_gamer_ceo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavangandhi10/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pavangandhi10) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/pavangandhi10) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Constant_Toe_2680/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/pavan-gandhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/pavangandhi10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@sonupavansaga) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Pavankumar-Gandhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavangandhi10@gmail.com) 
+
 </div>
 
 ## 🛠️ My Technical Toolbox
@@ -223,9 +221,9 @@ _Bigscal Technologies Pvt Ltd_ (Feb 2022 – Present)
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/pavangandhi/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pavangandhi&theme=codeSTACKr&hide_border=false&short_numbers=true"/>
     </a>
 </p>
 <h3>💻 GitHub Profile Stats</h3>  
@@ -243,6 +241,10 @@ _Bigscal Technologies Pvt Ltd_ (Feb 2022 – Present)
 
 <!-- --- -->
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -256,8 +258,15 @@ _Bigscal Technologies Pvt Ltd_ (Feb 2022 – Present)
     <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=pavangandhi&color=ff69b4" height="100px" /></a>
 </p>
 
-
 <p align="center">
   <b>Let's connect, collaborate, and build something amazing! 🚀</b>
 </p>
 
+ ## 💰 You can help me by Donating
+
+ <p align="center">
+
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/pavangandhi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/pavangandhi) 
+
+  </p>
